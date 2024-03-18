@@ -1,5 +1,9 @@
 ## Olá, me chamo Elber Caio ! 
 ### Bem vindo ao meu perfil GitHub 👋 
+<img
+    src="https://komarev.com/ghpvc/?username=Elbercaio&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Elbercaio"
+  />
 <!--
 **Elbercaio/Elbercaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
